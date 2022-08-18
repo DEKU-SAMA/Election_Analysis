@@ -19,7 +19,7 @@ Charles Casper Stockham: 85,213 votes
 Raymon Anthony Doane: 11,606 votes (3.1%)
 
 Election Results Summarry:
-![Election_Results](https://user-images.githubusercontent.com/109875421/185286584-05ecde93-b333-4de8-917c-f024c4e17fb3.png)
+![Election_Results](https://user-images.githubusercontent.com/109875421/185289532-728e75ff-8df1-47f7-beae-515c1f86c94b.png)
 
 CODE:
 # -*- coding: UTF-8 -*-
@@ -155,8 +155,8 @@ with open(file_to_save, "w") as txt_file:
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
     
-SUMMARRY:
-Given how this code is supposed to function, it's propose can be used for other elections big or small. It would be an interesting parameter to see the geographical 
+Summarry:
+Given how this code is supposed to function, its puposes can be used for any elections, large or quaint. It would be an interesting parameter to see the geographical 
 location of each person who voted and create a heat map. This will give valuable information of where to do more outreaching to get a more wholistic representation of 
 the local population. The limitations of this dataset are that they only limit a few parameters. It would also be interesting to see the age groups and genders that 
-participated in the election so that the parties can go about better strategizing for target audiences they struggled.
+participated in the election so that the parties can go about better strategizing for target audiences they struggled to reach with their platforms and policies. 
